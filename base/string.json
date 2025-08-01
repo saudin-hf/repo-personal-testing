@@ -1,0 +1,65 @@
+{
+  "_comment": "This file was generated automatically by Supernova.io and should not be changed manually. To modify the format or content of this file, please contact your design system team.",
+  "string": {
+    "typography": {
+      "headline": {
+        "font-family": {
+          "value": "Agrandir",
+          "type": "string"
+        },
+        "font-weight": {
+          "value": "Tight Bold",
+          "type": "string"
+        }
+      },
+      "body": {
+        "font-family": {
+          "value": "Roboto",
+          "type": "string"
+        },
+        "font-weight": {
+          "regular": {
+            "value": "Regular",
+            "type": "string"
+          },
+          "bold": {
+            "value": "Bold",
+            "type": "string"
+          },
+          "regular-2": {
+            "value": "Regular",
+            "type": "string"
+          }
+        },
+        "font-family-2": {
+          "value": "Roboto",
+          "type": "string"
+        }
+      },
+      "display": {
+        "font-family": {
+          "value": "Agrandir",
+          "type": "string"
+        },
+        "font-weight": {
+          "value": "Tight Black",
+          "type": "string"
+        }
+      }
+    },
+    "image": {
+      "logo": {
+        "brand": {
+          "value": "HelloFresh",
+          "type": "string"
+        }
+      }
+    },
+    "calendar-icon": {
+      "default-variant": {
+        "value": "Brand Active",
+        "type": "string"
+      }
+    }
+  }
+}
